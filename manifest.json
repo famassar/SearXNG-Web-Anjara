@@ -20,10 +20,11 @@
     "search_provider": {
       "name": "SearXNG",
       "keyword": "@searxng, @searx, @sx",
-      "search_url": "https://search.ononoki.org/search?q={searchTerms}",
+      "search_url": "https://search.anjara.org/searxng/search?q={searchTerms}",
       "favicon_url": "searxng128.webp",
       "suggest_url": "https://search.ononoki.org/autocompleter?q={searchTerms}",
       "is_default": true
     }
   }
 }
+
